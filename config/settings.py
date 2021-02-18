@@ -99,8 +99,8 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'freecodeschool',
-        'USER': 'fcs_admin',
+        'NAME': '',
+        'USER': '',
         'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '',
